@@ -1,0 +1,7 @@
+{
+  "name": "propertydek-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
